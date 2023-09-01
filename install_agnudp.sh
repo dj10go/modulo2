@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="vpn.khaledagn.com"
+DOMAIN="vpn.v2rayo.cloud"
 
 # PROTOCOL
 PROTOCOL="udp"

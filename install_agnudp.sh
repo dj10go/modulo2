@@ -19,7 +19,7 @@ DOMAIN="vpn.v2rayo.cloud"
 PROTOCOL="udp"
 
 # UDP PORT
-UDP_PORT=":36712"
+UDP_PORT=":1-65535"
 
 # OBFS
 OBFS="agnudp"
